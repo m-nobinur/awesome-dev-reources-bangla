@@ -4,9 +4,27 @@ A curated list of awesome development resources in Bengali.
 
 ## বাংলায় প্রোগ্রামিং শেখার রিসোর্সসমূহ (ফ্রি)
 
+### প্রোগ্রামিং পরিচিতি (বেসিক)
+
+#### অনলাইন বই/ব্লগ
+
+* [**হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা** by `ইকরাম মাহমুদ`](https://hukush-pakush.com/chap1)
+* [**কম্পিউটার প্রোগ্রামিং** by `Tamim Shahriar Subeen`](http://cpbook.subeen.com/2011/08/blog-post.html)
+
+#### এলগোরিদম ও ডাটা স্ট্রাকচার
+
+* [**বাংলায় প্রোগ্রামিং রিসোর্সসমূহ** by `Opensource Contributors`](https://github.com/me-shaon/bangla-programming-resources)
+
 ### প্রোগ্রামিং ল্যাংগুয়েজ
 
----
+#### বাংলায় সি++ (C++)
+
+* ভিডিও লেকচার (ইউটিউব)
+  * [**সি++ বাংলা টিউটোরিয়াল** by `Shikkhangon BD`](https://www.youtube.com/watch?v=Fzs9LTB1XCs&list=PLeqnvPK4PpyWsjZvgLTRcc-dkPQXc8SHc)
+  * [**সি++ বাংলা সিরিজ** by `Anisul Islam`](https://www.youtube.com/watch?v=0T4mPpbNs_8&list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL)
+  
+* অনলাইন বই (ফ্রি)
+  * [**সি++ টিউটোরিয়াল(blog)** by `মুনতাসির ওয়াহেদ`](http://shoshikkha.com/archives/category/computer-science/programming/language/c)
 
 #### বাংলায় জাভাস্ক্রিপ্ট (Javascript in Bengali)
 
@@ -36,6 +54,7 @@ A curated list of awesome development resources in Bengali.
   * [**পাইথন প্রোগ্রামিং - বিগিনার টু ইন্টারমিডিয়েট** by `codinglaugh`](https://www.youtube.com/watch?v=Nj7h3FWcRGY&list=PLTgx8WgkaUw5OshLPgiblglUkF3_cXK5s)
 
 * অনলাইন বই (ফ্রি)
+  * [**সহজ ভাষায় পাইথন ৩** by `Maksudur Rahman Maateen`](https://python.maateen.me/)
   * [**পাইথন প্রোগ্রামিং** by `Tamim Shahriar Subeen`](http://pybook.subeen.com/)
   * [**পাইথন বাংলা বুক** by `Opensource community`](https://github.com/subrata6630/Python-Bangla-Book/blob/master/SUMMARY.md)
   * [**HUNT Python** by `Yeasir Arafat Ratul`](https://github.com/YeasirArafatRatul/Python-Programming-Language-3-Bangla-Book/blob/master/HUNT%20Python-Short%20Version.pdf)

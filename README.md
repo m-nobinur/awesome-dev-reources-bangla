@@ -33,6 +33,7 @@ A curated list of awesome development resources in Bengali.
   * [**জাভাস্ক্রিপ্ট ফর বিগিনার সিরিজ** by `Learn with Sumit`](https://www.youtube.com/watch?v=rePN-VFo1Eo&list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy)
   * [**জাভাস্ক্রিপ্ট বাংলা সিরিজ** by `Anisul Islam`](https://www.youtube.com/watch?v=fBhxs9OHxtY&list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX)
   * [**জাভাস্ক্রিপ্ট ক্র্যাশ কোর্স** by `Stack Learner`](https://www.youtube.com/watch?v=qe9k1se3bSQ&list=PL_XxuZqN0xVAJTV_1ZXwB1XIiFkK0ddZA)
+  * [**ES6 - Modern Javascript** by `Stack Learner`](https://www.youtube.com/watch?v=l3Uc-7dxZUM&list=PL_XxuZqN0xVA676tNBA0W8YgdQqU44Y_J)
 
 * অনলাইন বই (ফ্রি)
   * [**হাতেকলমে জাভাস্ক্রিপ্ট** by `জুনায়েদ`](https://zonayed.js.org/)
@@ -58,4 +59,22 @@ A curated list of awesome development resources in Bengali.
   * [**পাইথন প্রোগ্রামিং** by `Tamim Shahriar Subeen`](http://pybook.subeen.com/)
   * [**পাইথন বাংলা বুক** by `Opensource community`](https://github.com/subrata6630/Python-Bangla-Book/blob/master/SUMMARY.md)
   * [**HUNT Python** by `Yeasir Arafat Ratul`](https://github.com/YeasirArafatRatul/Python-Programming-Language-3-Bangla-Book/blob/master/HUNT%20Python-Short%20Version.pdf)
-  
+
+### ফ্রেমওয়ার্ক & লাইব্রেরী
+
+#### ওয়েব ফ্রেমওয়ার্ক (ফুলস্ট্যাক & ব্যাক-এন্ড)
+
+* বাংলায় নোড জেএস এবং এক্সপ্রেস জেএস (Express.js & Node.js in Bengali)
+  * [** Node.js & Express.js বাংলা সিরিজ** by `Learn with Sumit`](https://www.youtube.com/watch?v=WC-g0JtEIwM&list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM)
+  * [**Node.js বাংলা টিউটোরিয়াল** by `Rabbil Hasan`](https://www.youtube.com/watch?v=nlq9niwtDS0&list=PLkyGuIcLcmx2qXaZkjCL8-P78i2J5rDOa)
+  * [**Dive Into NodeJS** by `Stack Learner`](https://www.youtube.com/watch?v=PNDZQ7NojEg&list=PL_XxuZqN0xVDHFj-ecFSU0SU-B0TuJRk9)
+
+* বাংলায় জ্যাংগো (Django)
+  * [**বাংলায় এডভান্সড জ্যাঙ্গো** by `STUDY MART`](https://www.youtube.com/watch?v=NDKFOD1sLZE&list=PLKdU0fuY4OFfo3VgywUFoAUY7Udi3_6V6)
+  * [**জ‍্যাঙ্গো ওয়েব ও রেস্ট ফ্রেমওয়ার্ক** by `Mahmud Ahsan`](https://www.youtube.com/results?search_query=django+bangla)
+
+#### ওয়েব ফ্রেমওয়ার্ক (ফ্রন্ট-এন্ড)
+
+* বাংলায় রিয়েক্ট জেএস (React.js)
+  * [****রিয়েক্ট বাংলা সিরিজ** by `Learn with Sumit`](https://www.youtube.com/watch?v=5Xy-t8k_M4A&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr)
+  * [**Understand React JS Core Features** by `Stack Learner`](https://www.youtube.com/watch?v=sCKGvYTSdKM&list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs)

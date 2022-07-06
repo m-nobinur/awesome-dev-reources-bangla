@@ -83,6 +83,7 @@ A curated list of awesome development resources in Bengali.
 
 * [**Awesome List** - Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 * [**Awesome GitHub** - Curated list of awesome lists from Github](https://github.com/sindresorhus/awesomeproject-awesome.org/phillipadsmith/awesome-github)
+* [**Awesome CS Courses**](https://project-awesome.org/prakhar1989/awesome-courses)
 * [**Awesome Python** - A curated list of awesome Python frameworks, libraries and resources](https://github.com/vinta/awesome-python)
   * [**Awesome Django** - A curated list of awesome things related to Django](https://github.com/wsvincent/awesome-django)
   * [**Awesome Django REST Framework** - Tools, processes and resources for DRF](https://github.com/nioperas06/awesome-django-rest-framework)
@@ -100,6 +101,8 @@ A curated list of awesome development resources in Bengali.
 * [**Awesome CSS Frameworks** - About List of awesome CSS frameworks](https://github.com/troxler/awesome-css-frameworks)
   * [**Awesome Tailwind CSS** - 😎 Awesome things related to Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
 * [**Awesome Web Development** - Collection of go-to web development resources](https://github.com/mrmartineau/awesome-web-dev-resources)
+* [**Awesome Machine Learning** - A curated list of awesome Machine Learning frameworks, libraries and software](https://github.com/josephmisiti/awesome-machine-learning)
+* [**Awesome Data Science** - 📝 An awesome Data Science repository to learn and apply for real world problems](https://github.com/academic/awesome-datascience)
 
 ---
 
@@ -107,4 +110,6 @@ A curated list of awesome development resources in Bengali.
 * [**Awesome ZSH** - A collection of ZSH frameworks, plugins, themes and tutorials](https://github.com/unixorn/awesome-zsh-plugins)
 * [**Awesome Mac** -  Awesome macOS software in various categories](https://github.com/jaywcjlove/awesome-mac#awesome-mac)
 * [**Awesome Linux** - 🐧 A list of awesome projects and resources that make Linux even more awesome](https://github.com/inputsh/awesome-linux)
+* [**Awesome Vim** - The Vim plugin shortlist](https://github.com/akrawchyk/awesome-vim)
+* [**Awesome Neovim** - Collections of awesome neovim plugins](https://github.com/rockerBOO/awesome-neovim)
 * [**Awesome VS Code** - 🎨 A curated list of delightful VS Code packages and resources](https://github.com/viatsko/awesome-vscode)

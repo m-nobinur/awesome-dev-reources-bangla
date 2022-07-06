@@ -99,6 +99,7 @@ A curated list of awesome development resources in Bengali.
   * [**Awesome Vue** - 🎉 A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
 * [**Awesome CSS Frameworks** - About List of awesome CSS frameworks](https://github.com/troxler/awesome-css-frameworks)
   * [**Awesome Tailwind CSS** - 😎 Awesome things related to Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
+* [**Awesome Web Development** - Collection of go-to web development resources](https://github.com/mrmartineau/awesome-web-dev-resources)
 
 ---
 
@@ -106,3 +107,4 @@ A curated list of awesome development resources in Bengali.
 * [**Awesome ZSH** - A collection of ZSH frameworks, plugins, themes and tutorials](https://github.com/unixorn/awesome-zsh-plugins)
 * [**Awesome Mac** -  Awesome macOS software in various categories](https://github.com/jaywcjlove/awesome-mac#awesome-mac)
 * [**Awesome Linux** - 🐧 A list of awesome projects and resources that make Linux even more awesome](https://github.com/inputsh/awesome-linux)
+* [**Awesome VS Code** - 🎨 A curated list of delightful VS Code packages and resources](https://github.com/viatsko/awesome-vscode)

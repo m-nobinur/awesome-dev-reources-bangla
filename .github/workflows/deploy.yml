@@ -20,6 +20,9 @@ jobs:
       with:
         python-version: 3.9.6
     
+    - name: Installing Dependencies
+      run: pip install -r requirements.txt
+
     - name: Copy files to docs directory
       run: |
         cp README.md docs/index.md

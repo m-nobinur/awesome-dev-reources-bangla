@@ -78,3 +78,13 @@ A curated list of awesome development resources in Bengali.
 * বাংলায় রিয়েক্ট জেএস (React.js)
   * [**রিয়েক্ট বাংলা সিরিজ** by `Learn with Sumit`](https://www.youtube.com/watch?v=5Xy-t8k_M4A&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr)
   * [**Understand React JS Core Features** by `Stack Learner`](https://www.youtube.com/watch?v=sCKGvYTSdKM&list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs)
+
+## কিছু Awesome ডেভেলপমেন্ট রিসোর্স
+
+* [**Awesome List** - Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
+* [**Awesome GitHub** - Curated list of awesome lists from Github](https://github.com/sindresorhus/awesomeproject-awesome.org/phillipadsmith/awesome-github)
+* [**Awesome Python** - A curated list of awesome Python frameworks, libraries and resources](https://github.com/vinta/awesome-python)
+  * [**Awesome Django** - A curated list of awesome things related to Django](https://github.com/wsvincent/awesome-django)
+  * [**Awesome Django REST Framework** - Tools, processes and resources for DRF](https://github.com/nioperas06/awesome-django-rest-framework)
+  * [**Awesome Flask** - A curated list of awesome things related to Flask](https://github.com/humiaozuzu/awesome-flask)
+  * [**Awesome FastAPI** - A curated list of awesome things related to FastAPI](https://github.com/mjhea0/awesome-fastapi)

@@ -1,0 +1,18 @@
+site_name: বাছাইকৃত ডেভেলপমেন্ট রিসোর্সসমূহ (বাংলা)
+site_url: https://awesome-python.com
+site_description: বাছাইকৃত বাংলা ডেভেলপমেন্ট রিসোর্সসমূহ (A curated list of awesome development resources in Bengali)
+site_author: M Nobinur
+
+repo_url: https://github.com/m-nobinur/awesome-dev-reources-bangla
+
+copyright: Copyright &copy; 2022 <a href="https://www.linkedin.com/in/mnobinur/">M Nobinur</a>.
+
+theme:
+    name: flatly
+    
+markdown_extensions:
+    - toc:
+        permalink: '#'
+
+plugins:
+    - search

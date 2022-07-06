@@ -65,7 +65,7 @@ A curated list of awesome development resources in Bengali.
 #### ওয়েব ফ্রেমওয়ার্ক (ফুলস্ট্যাক & ব্যাক-এন্ড)
 
 * বাংলায় নোড জেএস এবং এক্সপ্রেস জেএস (Express.js & Node.js in Bengali)
-  * [** Node.js & Express.js বাংলা সিরিজ** by `Learn with Sumit`](https://www.youtube.com/watch?v=WC-g0JtEIwM&list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM)
+  * [**Node.js & Express.js বাংলা সিরিজ** by `Learn with Sumit`](https://www.youtube.com/watch?v=WC-g0JtEIwM&list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM)
   * [**Node.js বাংলা টিউটোরিয়াল** by `Rabbil Hasan`](https://www.youtube.com/watch?v=nlq9niwtDS0&list=PLkyGuIcLcmx2qXaZkjCL8-P78i2J5rDOa)
   * [**Dive Into NodeJS** by `Stack Learner`](https://www.youtube.com/watch?v=PNDZQ7NojEg&list=PL_XxuZqN0xVDHFj-ecFSU0SU-B0TuJRk9)
 
@@ -76,5 +76,5 @@ A curated list of awesome development resources in Bengali.
 #### ওয়েব ফ্রেমওয়ার্ক (ফ্রন্ট-এন্ড)
 
 * বাংলায় রিয়েক্ট জেএস (React.js)
-  * [****রিয়েক্ট বাংলা সিরিজ** by `Learn with Sumit`](https://www.youtube.com/watch?v=5Xy-t8k_M4A&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr)
+  * [**রিয়েক্ট বাংলা সিরিজ** by `Learn with Sumit`](https://www.youtube.com/watch?v=5Xy-t8k_M4A&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr)
   * [**Understand React JS Core Features** by `Stack Learner`](https://www.youtube.com/watch?v=sCKGvYTSdKM&list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs)

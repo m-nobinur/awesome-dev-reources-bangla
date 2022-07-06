@@ -88,3 +88,21 @@ A curated list of awesome development resources in Bengali.
   * [**Awesome Django REST Framework** - Tools, processes and resources for DRF](https://github.com/nioperas06/awesome-django-rest-framework)
   * [**Awesome Flask** - A curated list of awesome things related to Flask](https://github.com/humiaozuzu/awesome-flask)
   * [**Awesome FastAPI** - A curated list of awesome things related to FastAPI](https://github.com/mjhea0/awesome-fastapi)
+* [**Awesome JavaScript** - A collection of awesome JavaScript libraries and resources](https://github.com/sorrycc/awesome-javascript)
+* [**Awesome JavaScript | LibHunt** - A collection of awesome browser-side JavaScript libraries, resources and shiny things](https://js.libhunt.com/)
+* [**Awesome JavaScript 2** - A curated list of awesome JavaScript frameworks, libraries and software](https://github.com/uhub/awesome-javascript)
+  * [**Awesome NodeJS** - ⚡ Delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs)
+  * [**Awesome React** - A collection of awesome things regarding React ecosystem](https://github.com/enaqx/awesome-react)
+  * [**Awesome Next.js** - A curated list of awesome resources : books, videos, articles about using Next.js](https://github.com/unicodeveloper/awesome-nextjs)
+  * [**Awesome Gatsby** - Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.](https://github.com/prayash/awesome-gatsby)
+  * [**Awesome Svelte** - A curated list of awesome Svelte resources](https://github.com/TheComputerM/awesome-svelte)
+  * [**Awesome Vue** - 🎉 A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
+* [**Awesome CSS Frameworks** - About List of awesome CSS frameworks](https://github.com/troxler/awesome-css-frameworks)
+  * [**Awesome Tailwind CSS** - 😎 Awesome things related to Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
+
+---
+
+* [**Awesome Bash** - A curated list of delightful Bash scripts and resources](https://github.com/awesome-lists/awesome-bash)
+* [**Awesome ZSH** - A collection of ZSH frameworks, plugins, themes and tutorials](https://github.com/unixorn/awesome-zsh-plugins)
+* [**Awesome Mac** -  Awesome macOS software in various categories](https://github.com/jaywcjlove/awesome-mac#awesome-mac)
+* [**Awesome Linux** - 🐧 A list of awesome projects and resources that make Linux even more awesome](https://github.com/inputsh/awesome-linux)

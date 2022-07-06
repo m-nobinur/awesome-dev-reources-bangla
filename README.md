@@ -113,3 +113,11 @@ A curated list of awesome development resources in Bengali.
 * [**Awesome Vim** - The Vim plugin shortlist](https://github.com/akrawchyk/awesome-vim)
 * [**Awesome Neovim** - Collections of awesome neovim plugins](https://github.com/rockerBOO/awesome-neovim)
 * [**Awesome VS Code** - 🎨 A curated list of delightful VS Code packages and resources](https://github.com/viatsko/awesome-vscode)
+
+## অবদান রাখুন (Contributing)
+
+আপনার অবদান সবসময় স্বাগত! অনুগ্রহ করে প্রথমে [অবদানের নির্দেশিকা](./CONTRIBUTING.md) দেখুন।
+
+আপনারা OPEN PULL Request গুলতে 👍(আপভোট) যোগ করে ভোট দিতে পারেন। আপনাদের ভোটের উপর ভিত্তি করে PULL Request এপ্রুভ করা হবে।
+
+আপনার কোন প্রশ্ন থাকলে, আমার সাথে @mnobinur(LINKEDIN) যোগাযোগ করতে কিংবা গিটহাবে ISSUE তৈরি করতে দ্বিধা করবেন না।

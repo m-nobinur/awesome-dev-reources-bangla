@@ -3,7 +3,7 @@
 A curated list of awesome development resources in Bengali.
 
 <p align="center">
-  <a href="m-nobinur.github.io/awesome-dev-reources-bangla/"><img
+  <a href="https://m-nobinur.github.io/awesome-dev-reources-bangla/"><img
     src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fm-nobinur.github.io%2Fawesome-dev-reources-bangla%2F"
     alt="Website"
   /></a>

@@ -7,6 +7,8 @@ repo_url: https://github.com/m-nobinur/awesome-dev-reources-bangla
 
 copyright: Copyright &copy; 2022 <a href="https://www.linkedin.com/in/mnobinur/">M Nobinur</a>.
 
+nav:
+    - "": Readme.md
 theme:
     name: flatly
     

@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://awesome-python.com/</loc>
-         <lastmod>2022-07-06</lastmod>
+         <lastmod>2022-07-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://awesome-python.com/CONTRIBUTING/</loc>
-         <lastmod>2022-07-06</lastmod>
+         <lastmod>2022-07-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

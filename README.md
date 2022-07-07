@@ -2,6 +2,21 @@
 
 A curated list of awesome development resources in Bengali.
 
+<p align="center">
+  <a href="m-nobinur.github.io/awesome-dev-reources-bangla/"><img
+    src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fm-nobinur.github.io%2Fawesome-dev-reources-bangla%2F"
+    alt="Website"
+  /></a>
+  <a href="https://github.com/m-nobinur/awesome-dev-reources-bangla/actions"><img
+    src="https://github.com/m-nobinur/awesome-dev-reources-bangla/actions/workflows/deploy.yml/badge.svg"
+    alt="Build"
+  /></a>
+  <a href="https://github.com/m-nobinur/awesome-dev-reources-bangla/blob/main/LICENSE"><img
+    src="https://img.shields.io/github/license/m-nobinur/awesome-dev-reources-bangla"
+    alt="LICENSE"
+  /></a>
+</p>
+
 ## বাংলায় প্রোগ্রামিং শেখার রিসোর্সসমূহ (ফ্রি)
 
 ### প্রোগ্রামিং পরিচিতি (বেসিক)

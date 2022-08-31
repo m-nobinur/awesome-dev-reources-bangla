@@ -28,7 +28,7 @@ A curated list of awesome development resources in Bengali.
 
 #### বাংলা ডেভেলপার চিটশিট
 
-* [**ডেভ সংকেত**](https://devsonket.com/)
+* [**ডেভ সংকেত** by `Bangali Contributors`](https://devsonket.com/)
 
 #### এলগোরিদম ও ডাটা স্ট্রাকচার
 

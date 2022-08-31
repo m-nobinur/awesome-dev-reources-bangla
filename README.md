@@ -26,6 +26,10 @@ A curated list of awesome development resources in Bengali.
 * [**হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা** by `ইকরাম মাহমুদ`](https://hukush-pakush.com/chap1)
 * [**কম্পিউটার প্রোগ্রামিং** by `Tamim Shahriar Subeen`](http://cpbook.subeen.com/2011/08/blog-post.html)
 
+#### বাংলা ডেভেলপার চিটশিট
+
+* [**ডেভ সংকেত**](https://devsonket.com/)
+
 #### এলগোরিদম ও ডাটা স্ট্রাকচার
 
 * [**বাংলায় প্রোগ্রামিং রিসোর্সসমূহ** by `Opensource Contributors`](https://github.com/me-shaon/bangla-programming-resources)

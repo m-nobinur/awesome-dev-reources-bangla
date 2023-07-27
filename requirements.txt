@@ -1,2 +1,2 @@
-mkdocs==1.4.2
+mkdocs==1.5.0
 mkdocs-bootswatch==1.1
